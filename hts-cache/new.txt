@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:44:04	314/314	---M--	200	added ('OK')	text/plain	etag:%2213a-5cb841245f9d4%22	https://plremportugues.net/robots.txt		(from )
+14:44:05	107943/107943	---M-Z	200	added ('OK')	text/html	date:Mon,%2027%20Jun%202022%2017:44:04%20GMT	https://plremportugues.net/loja2/como-tratar-candidiase/	C:/Meus%20Sites/como-tratar-candidiase/plremportugues.net/loja2/como-tratar-candidiase/index.html	(from )
